@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="75157" started-at="2018-07-27T13:25:31Z" finished-at="2018-07-27T13:26:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="75157" started-at="2018-07-27T13:25:31Z" finished-at="2018-07-27T13:26:47Z">
+      <class name="com.performance.sagicor.pdf.SagicorTestRunAll">
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.performance.sagicor.pdf.SagicorTestRunAll@17211155]" name="f" duration-ms="8194" started-at="2018-07-27T13:25:31Z" data-provider="dp" finished-at="2018-07-27T13:25:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_SEC014]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SLIC_SEC_Expected_Results_Single_Page_v29_2018-07-19 - Copy.xlsx]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\NewActualresultSagicor_New.xlsx]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[SEC014]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\PDFToText_SageSecure.txt]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[SEC014]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SEC014.pdf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.performance.sagicor.pdf.SagicorTestRunAll@17211155]" name="f" duration-ms="5154" started-at="2018-07-27T13:25:40Z" data-provider="dp" finished-at="2018-07-27T13:25:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_SEC015]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SLIC_SEC_Expected_Results_Single_Page_v29_2018-07-19 - Copy.xlsx]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\NewActualresultSagicor_New.xlsx]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[SEC015]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\PDFToText_SageSecure.txt]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[SEC015]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SEC015.pdf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.performance.sagicor.pdf.SagicorTestRunAll@17211155]" name="f" duration-ms="4324" started-at="2018-07-27T13:25:45Z" data-provider="dp" finished-at="2018-07-27T13:25:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_SEC016]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SLIC_SEC_Expected_Results_Single_Page_v29_2018-07-19 - Copy.xlsx]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\NewActualresultSagicor_New.xlsx]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[SEC016]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\PDFToText_SageSecure.txt]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[SEC016]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SEC016.pdf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.performance.sagicor.pdf.SagicorTestRunAll@17211155]" name="f" duration-ms="4918" started-at="2018-07-27T13:25:49Z" data-provider="dp" finished-at="2018-07-27T13:25:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_SEC017]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SLIC_SEC_Expected_Results_Single_Page_v29_2018-07-19 - Copy.xlsx]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\NewActualresultSagicor_New.xlsx]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[SEC017]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\PDFToText_SageSecure.txt]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[SEC017]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SEC017.pdf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.performance.sagicor.pdf.SagicorTestRunAll@17211155]" name="f" duration-ms="5260" started-at="2018-07-27T13:25:54Z" data-provider="dp" finished-at="2018-07-27T13:25:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_SEC018]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SLIC_SEC_Expected_Results_Single_Page_v29_2018-07-19 - Copy.xlsx]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\NewActualresultSagicor_New.xlsx]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[SEC018]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\PDFToText_SageSecure.txt]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[SEC018]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SEC018.pdf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.performance.sagicor.pdf.SagicorTestRunAll@17211155]" name="f" duration-ms="5583" started-at="2018-07-27T13:25:59Z" data-provider="dp" finished-at="2018-07-27T13:26:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_SEC019]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SLIC_SEC_Expected_Results_Single_Page_v29_2018-07-19 - Copy.xlsx]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\NewActualresultSagicor_New.xlsx]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[SEC019]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\PDFToText_SageSecure.txt]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[SEC019]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SEC019.pdf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.performance.sagicor.pdf.SagicorTestRunAll@17211155]" name="f" duration-ms="6145" started-at="2018-07-27T13:26:05Z" data-provider="dp" finished-at="2018-07-27T13:26:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_SEC020]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SLIC_SEC_Expected_Results_Single_Page_v29_2018-07-19 - Copy.xlsx]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\NewActualresultSagicor_New.xlsx]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[SEC020]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\PDFToText_SageSecure.txt]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[SEC020]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SEC020.pdf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.performance.sagicor.pdf.SagicorTestRunAll@17211155]" name="f" duration-ms="7010" started-at="2018-07-27T13:26:11Z" data-provider="dp" finished-at="2018-07-27T13:26:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_SEC021]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SLIC_SEC_Expected_Results_Single_Page_v29_2018-07-19 - Copy.xlsx]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\NewActualresultSagicor_New.xlsx]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[SEC021]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\PDFToText_SageSecure.txt]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[SEC021]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SEC021.pdf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.performance.sagicor.pdf.SagicorTestRunAll@17211155]" name="f" duration-ms="6165" started-at="2018-07-27T13:26:18Z" data-provider="dp" finished-at="2018-07-27T13:26:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_SEC022]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SLIC_SEC_Expected_Results_Single_Page_v29_2018-07-19 - Copy.xlsx]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\NewActualresultSagicor_New.xlsx]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[SEC022]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\PDFToText_SageSecure.txt]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[SEC022]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SEC022.pdf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.performance.sagicor.pdf.SagicorTestRunAll@17211155]" name="f" duration-ms="7374" started-at="2018-07-27T13:26:24Z" data-provider="dp" finished-at="2018-07-27T13:26:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_SEC023]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SLIC_SEC_Expected_Results_Single_Page_v29_2018-07-19 - Copy.xlsx]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\NewActualresultSagicor_New.xlsx]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[SEC023]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\PDFToText_SageSecure.txt]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[SEC023]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SEC023.pdf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.performance.sagicor.pdf.SagicorTestRunAll@17211155]" name="f" duration-ms="7769" started-at="2018-07-27T13:26:32Z" data-provider="dp" finished-at="2018-07-27T13:26:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_SEC024]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SLIC_SEC_Expected_Results_Single_Page_v29_2018-07-19 - Copy.xlsx]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\NewActualresultSagicor_New.xlsx]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[SEC024]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\PDFToText_SageSecure.txt]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[SEC024]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SEC024.pdf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.performance.sagicor.pdf.SagicorTestRunAll@17211155]" name="f" duration-ms="7221" started-at="2018-07-27T13:26:39Z" data-provider="dp" finished-at="2018-07-27T13:26:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_SEC025]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SLIC_SEC_Expected_Results_Single_Page_v29_2018-07-19 - Copy.xlsx]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\NewActualresultSagicor_New.xlsx]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[SEC025]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\PDFToText_SageSecure.txt]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[SEC025]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[D:\Sagicor_New_Final\SEC025.pdf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.performance.sagicor.pdf.SagicorTestRunAll -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
